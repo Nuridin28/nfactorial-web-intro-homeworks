@@ -4,6 +4,7 @@
 //store
 
 let name = "BookStore.kz";
+let instargramUrl = undefined;
 let countOfEmploees = 4;
 let isProfitable = true;
 let closeYear = null;
