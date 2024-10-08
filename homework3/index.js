@@ -19,11 +19,6 @@ if(num % 2 == 0) {
     alert(num + " is odd");
 }
 
-const login = 'Нет логина';
-let message;
-login == 'Сотрудник' ? message = 'Привет' : login == 'Директор' ? message = 'Здравствуйте' : login == '' ? message = 'Нет логина' : message = '';
-
-
 //conditions
 let a = +prompt('a?', '');
 
@@ -40,7 +35,6 @@ switch(a){
         break;
     default:
 }
-
 
 //loops
 let sum = 0;
